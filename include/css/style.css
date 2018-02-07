@@ -1412,11 +1412,11 @@ a.button.dark:hover:before {
 
 .thumbnail img {
     width:100%;
+    padding: 10px;
 }
 
 .thumbnail video {
   width:100%;
-  padding: 10px;
 }
 
 .thumbnail .overlay {
