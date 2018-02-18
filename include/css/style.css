@@ -1753,6 +1753,13 @@ footer .social a:hover {
     color:#07a486;
 }
 
+span .foototes {
+    color:#bfbfbf;
+    text-align: right!important;
+    margin: 0 10px 0 10px;
+    font-size: 12px;
+}
+
 /* ==================== 2.5 Misc. Elements ==================== */
 
 .padded-large {
