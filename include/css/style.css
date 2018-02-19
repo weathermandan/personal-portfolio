@@ -2440,6 +2440,10 @@ code {
     height: 800px;
     width: auto;
     }
+    
+    p.footnote {
+        text-align:Center;
+    }
 }
 
 /* ==================== Min-Width:1200px ==================== */
