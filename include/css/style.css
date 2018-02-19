@@ -2012,6 +2012,10 @@ code {
     color:#22211f;
 }
 
+.color-dark p.footnote  {
+    color:#bfbfbf;
+}
+
 .color-dark hr {
     border:solid #22211f;
     border-width:1px 0 0;
