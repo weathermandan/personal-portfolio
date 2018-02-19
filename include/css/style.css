@@ -212,7 +212,7 @@ p.footnote {
     color:#bfbfbf !important;
     font-size:10px;
     margin:10px 0 10px 0;
-    text-align:right !important;
+    text-align:right;
 }
 
 .small {
