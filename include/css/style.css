@@ -1,14 +1,4 @@
 
-/*  ==========================================================================
-    Template: Dynamic
-    Template URI: http://demo.codeberry.net/dynamic
-    Author: Codeberry
-    Author URI: http://codeberry.net
-    Description: A versatile and modern portfolio template.
-    Version: 1.4
-    Last update: 03/10/17
-    Tags: Agency, Bold, Business, Creative, Minimal, Portfolio, Responsive
-    ========================================================================== */
 
 /*  ==================== Table of Contents ==================== */
 
@@ -208,7 +198,7 @@ h6 {
 
 p {
     color:#7a7a7a;
-    font-size:16px;
+    font-size:12px;
     line-height:25px;
     margin:20px 0 20px 0;
 }
@@ -216,6 +206,13 @@ p {
 p.secondary-heading {
     font-size:20px;
     line-height:35px;
+}
+
+p.footnote {
+    color:#bfbfbf;
+    font-size: 10px;
+    margin:10px 0 10px 0;
+    text-align: right!important;
 }
 
 .small {
@@ -1751,13 +1748,6 @@ footer .social a {
 
 footer .social a:hover {
     color:#07a486;
-}
-
-p span .foototes {
-    color:#bfbfbf;
-    text-align: right!important;
-    margin: 0 10px 0 10px;
-    font-size: 12px;
 }
 
 /* ==================== 2.5 Misc. Elements ==================== */
