@@ -2620,9 +2620,3 @@ code {
 }
 
 /* ==================== Min-Width:1400px ==================== */
-
-@media (min-width:1400px) {
-    .thumbnails {
-        margin:50px 60px 0 60px;
-    }
-}
